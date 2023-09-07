@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="swing.views.MainMenuWindow">
+  <grid id="27dc6" binding="mainPanel" layout-manager="GridLayoutManager" row-count="13" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="474"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="e2832" class="javax.swing.JButton" binding="roomTypeButton">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Room Types"/>
+        </properties>
+      </component>
+      <component id="7854" class="javax.swing.JButton" binding="departmentButton">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Departments"/>
+        </properties>
+      </component>
+      <component id="104b2" class="javax.swing.JButton" binding="floorButton">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Floors"/>
+        </properties>
+      </component>
+      <component id="6d5f3" class="javax.swing.JButton" binding="diagnosticButton">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Diagnostics"/>
+        </properties>
+      </component>
+      <component id="b2b5c" class="javax.swing.JButton" binding="addressButton">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Addresses"/>
+        </properties>
+      </component>
+      <component id="167b2" class="javax.swing.JButton" binding="specialtyButton">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Specialties"/>
+        </properties>
+      </component>
+      <component id="373eb" class="javax.swing.JButton" binding="personButton">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Persons"/>
+        </properties>
+      </component>
+      <component id="7e9cc" class="javax.swing.JButton" binding="employeeButton">
+        <constraints>
+          <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Employees"/>
+        </properties>
+      </component>
+      <component id="d7039" class="javax.swing.JButton" binding="doctorButton">
+        <constraints>
+          <grid row="9" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Doctors"/>
+        </properties>
+      </component>
+      <component id="5ce4d" class="javax.swing.JButton" binding="consultationButton">
+        <constraints>
+          <grid row="10" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Consultations"/>
+        </properties>
+      </component>
+      <component id="740a5" class="javax.swing.JButton" binding="recordButton">
+        <constraints>
+          <grid row="11" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Records"/>
+        </properties>
+      </component>
+      <component id="cde94" class="javax.swing.JButton" binding="surgeryButton">
+        <constraints>
+          <grid row="12" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Surgeries"/>
+        </properties>
+      </component>
+      <component id="e788a" class="javax.swing.JButton" binding="roomButton">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Rooms"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
